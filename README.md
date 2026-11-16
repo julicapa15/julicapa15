@@ -1,4 +1,4 @@
-# Hi, I'm Juliana Campuzano
+# Hi, I'm Juliana Campuzano Palacio
 
 I'm a Data Analyst and Biomedical Engineer building data and machine learning solutions, from exploratory analysis to models deployed as tested, containerized services.
 
